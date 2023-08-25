@@ -36,6 +36,9 @@ Public Class Form1
 
 
         If (Tdni.Text Is "" OrElse Tnombre.Text Is "" OrElse Tapellido.Text Is "" OrElse Not (Ttelefono.Text.Length = 10)) Then
+            If Not (Ttelefono.Text.Length = 10) Then
+                MsgBox("el numero de telefono tiene que tener 10 digitos", MsgBoxStyle.Critical, "Error")
+            End If
             MsgBox("Debe completar todos los campos", MsgBoxStyle.Critical, "Error")
         Else
             ask = MsgBox("¿Seguro desea insertar un nuevo cliente?", vbYesNo + vbQuestion, "confirmar insersion")
