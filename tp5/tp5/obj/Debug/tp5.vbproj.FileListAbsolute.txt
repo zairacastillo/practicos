@@ -1,0 +1,12 @@
+E:\Users\Usuario\source\repos\tp5\tp5\bin\Debug\tp5.exe.config
+E:\Users\Usuario\source\repos\tp5\tp5\bin\Debug\tp5.exe
+E:\Users\Usuario\source\repos\tp5\tp5\bin\Debug\tp5.pdb
+E:\Users\Usuario\source\repos\tp5\tp5\bin\Debug\tp5.xml
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.vbproj.AssemblyReference.cache
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.Form1.resources
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.Resources.resources
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.vbproj.GenerateResource.cache
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.vbproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.exe
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.xml
+E:\Users\Usuario\source\repos\tp5\tp5\obj\Debug\tp5.pdb
