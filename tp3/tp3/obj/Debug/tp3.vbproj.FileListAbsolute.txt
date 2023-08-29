@@ -1,0 +1,12 @@
+E:\Users\Usuario\source\repos\tp3\tp3\bin\Debug\tp3.exe.config
+E:\Users\Usuario\source\repos\tp3\tp3\bin\Debug\tp3.exe
+E:\Users\Usuario\source\repos\tp3\tp3\bin\Debug\tp3.pdb
+E:\Users\Usuario\source\repos\tp3\tp3\bin\Debug\tp3.xml
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.vbproj.AssemblyReference.cache
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.Form1.resources
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.Resources.resources
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.vbproj.GenerateResource.cache
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.vbproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.exe
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.xml
+E:\Users\Usuario\source\repos\tp3\tp3\obj\Debug\tp3.pdb
