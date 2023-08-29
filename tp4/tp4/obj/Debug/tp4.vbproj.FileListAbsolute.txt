@@ -1,0 +1,12 @@
+E:\Users\Usuario\source\repos\practico\tp4\tp4\bin\Debug\tp4.exe.config
+E:\Users\Usuario\source\repos\practico\tp4\tp4\bin\Debug\tp4.exe
+E:\Users\Usuario\source\repos\practico\tp4\tp4\bin\Debug\tp4.pdb
+E:\Users\Usuario\source\repos\practico\tp4\tp4\bin\Debug\tp4.xml
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.vbproj.AssemblyReference.cache
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.Form1.resources
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.Resources.resources
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.vbproj.GenerateResource.cache
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.vbproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.exe
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.xml
+E:\Users\Usuario\source\repos\practico\tp4\tp4\obj\Debug\tp4.pdb
